@@ -1,3 +1,1 @@
-## Marketing, project
-Для запуску сайту натисніть на файл index.html
-Він має знаходитись в тій самій папці в якій ви його найдете і не повинен бути переміщений
+## No need to hide when it's dark outside
